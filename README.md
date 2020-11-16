@@ -3,6 +3,7 @@ A repository with notes and python notebooks of theory and applications of diffe
 
 ## Contents
 * Derivatives
+    * [Derivative (Differentiation) Definition](Derivatives/Derivative_Definition.ipynb)
     * [Standart Derivatives Table](Derivatives/Std_Derivatives_Table.ipynb)
 * Ordinary Differential Equations (ODE)
     * [Constant-Coefficient Homogeneus Second Order ODE](ODE/second_order/Const-Coeff_Homogeneus_SO_ODE.ipynb)
